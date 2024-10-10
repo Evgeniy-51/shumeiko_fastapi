@@ -1,0 +1,6 @@
+venv
+tasks.db
+install.txt
+.idea
+__pycache__
+
